@@ -49,8 +49,8 @@ export default function Home() {
 					<div className={styles.image_overlay}></div>
 					<div className={styles.training__image}>
 						<Image
-            src="https://images.unsplash.com/photo-1568667256549-094345857637?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGxpYnJhcnl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-            //  src="https://images.unsplash.com/photo-1562240020-ce31ccb0fa7d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmlsbHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" 
+            // src="https://images.unsplash.com/photo-1568667256549-094345857637?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGxpYnJhcnl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+             src="https://images.unsplash.com/photo-1562240020-ce31ccb0fa7d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmlsbHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" 
              alt="admin world" 
              layout='fill'
              objectFit='cover'
@@ -116,7 +116,7 @@ export default function Home() {
 				
          <div className={styles.training__card}>
 					  <h3 className={styles.training__card_title}>Bronze</h3>
-           <p className={styles.training__card_body}>Expect the unexpected in our signature high-intensity interval training class. Cycle through timed interval stations designed to consistently shock your system and deliver results.</p>
+           <p className={styles.training__card_body}>40 per hour</p>
 					  <div className={styles.image_overlay}></div>
 				  	<div className={styles.training__image}>
 						  <Image
@@ -131,7 +131,7 @@ export default function Home() {
 
           <div className={styles.training__card}>
 				  	<h3 className={styles.training__card_title}>Silver</h3>
-           <p className={styles.training__card_body}>Develop strength, conditioning, and flexibility with our ZOO 365 - inspired fitness routines. These efficient, effective, total-body workouts can be done at home with minimal equipment.</p>
+           <p className={styles.training__card_body}>800 per month</p>
 				  	<div className={styles.image_overlay}></div>
 				  	<div className={styles.training__image}>
 					  	<Image
@@ -145,7 +145,7 @@ export default function Home() {
 
          <div className={styles.training__card}>
 				  	<h3 className={styles.training__card_title}>Gold</h3>
-            <p className={styles.training__card_body}>Receive expert advice, a personalized plan, and 1-on-1 real-time attention with online personal training. Regardless of goal or athletic ability, we have a coach for you. Equipment not necessary.</p>
+            <p className={styles.training__card_body}> 2000 per month</p>
 					  <div className={styles.image_overlay}></div>
 				  	<div className={styles.training__image}>
 						  <Image
