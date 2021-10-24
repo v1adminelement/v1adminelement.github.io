@@ -33,7 +33,7 @@ export default function Home() {
             <div className={styles.herowrapper}>
                <h1 className={styles.herowrapper__heading}>Every business has an <span>Admin Element</span>.</h1>
                <p className={styles.herowrapper__body}>
-                  Let us focus on your admin so you don't have to.
+                  Let us focus on your admin so you dont have to.
                </p>
            </div>
          </div>
@@ -174,7 +174,7 @@ export default function Home() {
 		  	<div className={styles.container}>
 			  	<h1 className={styles.textcenter}>WE WILL HELP YOU GET
           YOUR ADMIN IN SHAPE<br/>
-          <span>LET'S GET STARTED</span></h1>
+          <span>LETS GET STARTED</span></h1>
 			  	{/* <a href="#" class="button button--primary">Sign up</a> */}
 			  </div>
 		</section>
