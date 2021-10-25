@@ -40,7 +40,7 @@ export default function Home() {
        </section>
 
        <section className={styles.pt1}> {/* <section className={`${styles['categories']} ${styles['pt1']}`}> */}
-			  <h1 className={styles.sr_only}>Zoo365</h1>
+			  <h1 className={styles.sr_only}>Admin Element 365</h1>
 
 			  <div className={`${styles['container']} ${styles['training']}`}>
 
@@ -63,7 +63,8 @@ export default function Home() {
 					<div className={styles.image_overlay}></div>
 					<div className={styles.training__image}>
 						<Image
-             src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YnVzaW5lc3MlMjBhZG1pbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" 
+             src="https://images.unsplash.com/photo-1512486130939-2c4f79935e4f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fG9mZmljZSUyMHBsYW50c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60" 
+			//  src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YnVzaW5lc3MlMjBhZG1pbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" 
              alt="admin world" 
              layout='fill'
              objectFit='cover'
@@ -120,7 +121,7 @@ export default function Home() {
 					  <div className={styles.image_overlay}></div>
 				  	<div className={styles.training__image}>
 						  <Image
-               src="https://images.unsplash.com/photo-1504297050568-910d24c426d3?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80" 
+               src="https://images.unsplash.com/photo-1483058712412-4245e9b90334?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fG9mZmljZSUyMHBsYW50c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" 
                alt="admin world" 
                layout='fill'
                objectFit='cover'
@@ -135,7 +136,7 @@ export default function Home() {
 				  	<div className={styles.image_overlay}></div>
 				  	<div className={styles.training__image}>
 					  	<Image
-               src="https://images.unsplash.com/photo-1504297050568-910d24c426d3?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80" 
+               src="https://images.unsplash.com/photo-1497215728101-856f4ea42174?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8b2ZmaWNlJTIwcGxhbnRzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60" 
                alt="admin world" 
               layout='fill'
               objectFit='cover'
@@ -149,7 +150,7 @@ export default function Home() {
 					  <div className={styles.image_overlay}></div>
 				  	<div className={styles.training__image}>
 						  <Image
-               src="https://images.unsplash.com/photo-1504297050568-910d24c426d3?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80" 
+               src="https://images.unsplash.com/photo-1522968941782-e27ac665baa3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fG9mZmljZSUyMHBsYW50c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60" 
               alt="admin world" 
               layout='fill'
               objectFit='cover'
@@ -185,6 +186,7 @@ export default function Home() {
 			<div className={styles.footercol}>
 				<h3 className={styles.footercol__heading}>Find Us</h3>
 				<ul className={styles.footercol__list}>
+				<li className={styles.li}>Admin Element</li>
 					<li className={styles.li}>Address: 43 House Wandsworth London SW18 2BB</li>
 					<li className={styles.li}>Contact: 0208 785 2233</li>
           <li className={styles.li}>Email: info@adminelement.com</li>
